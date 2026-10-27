@@ -1,0 +1,33 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: IA para identificação de padrões discursivos de culpabilização da vítima em notícias
+authors:
+  - family-names: Noely de Marco
+    given-names: Bruna Luiza
+  - family-names: Galvão Soares
+    given-names: Maria Clara
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Castro Belém
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Santos Pereira
+    given-names: João Pedro
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Meirelles Gouvea Junior 
+    given-names: Maury
+keywords:
+  - Inteligência Artificial
+  - Processamento de Linguagem Natural
+  - Culpabilização da vítima
+  - Violência de gênero
+  - Viés discursivo
+  - Ética algorítmica
+  - Língua portuguesa
+  - Violência contra a mulher
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
